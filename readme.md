@@ -2,14 +2,6 @@
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
 	<br>
-	<p>
-		<sup>My open source work is supported by the community</sup>
-		<br>
-		<a href="https://www.patreon.com/sindresorhus">
-			<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-		</a>
-	</p>
-	<br>
 	<br>
 </div>
 
@@ -69,15 +61,16 @@
 	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
 - [iOS](https://github.com/vsouza/awesome-ios#readme) - Mobile operating system for Apple phones and tablets.
-- [Android](https://github.com/JStumpp/awesome-android#readme)
+- [Android](https://github.com/JStumpp/awesome-android#readme) - Mobile operating system developed by Google.
 - [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
 - [Electron](https://github.com/sindresorhus/awesome-electron#readme) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
 - [Cordova](https://github.com/busterc/awesome-cordova#readme) - JavaScript API for hybrid apps.
-- [React Native](https://github.com/jondot/awesome-react-native#readme)
+- [React Native](https://github.com/jondot/awesome-react-native#readme) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
 - [Xamarin](https://github.com/XamSome/awesome-xamarin#readme) - Mobile app development IDE, testing, and distribution.
 - [Linux](https://github.com/aleksandar-todorovic/awesome-linux#readme)
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
-- [macOS](https://github.com/iCHAIT/awesome-macOS#readme)
+	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
+- [macOS](https://github.com/iCHAIT/awesome-macOS#readme) - Operating system for Apple's Mac computers.
 	- [Command-Line](https://github.com/herrbischoff/awesome-macos-command-line#readme)
 	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
 	- [Apps](https://github.com/jaywcjlove/awesome-mac#readme)
@@ -107,6 +100,7 @@
 - [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies.
 - [Firebase](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud Platform.
 - [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2#readme) - Set of software libraries and tools that help you build robot apps.
+- [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) - Visualize and store data from any device.
 
 
 ## Programming Languages
@@ -127,10 +121,10 @@
 	- [Observables](https://github.com/sindresorhus/awesome-observables#readme)
 	- [npm scripts](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
 	- [30 Seconds of Code](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
-- [Swift](https://github.com/matteocrippa/awesome-swift#readme)
+- [Swift](https://github.com/matteocrippa/awesome-swift#readme) - Apple's compiled programming language that is secure, modern, programmer-friendly, and fast.
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education#readme)
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds#readme)
-- [Python](https://github.com/vinta/awesome-python#readme)
+- [Python](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
 	- [Asyncio](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
 	- [Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio#readme) - Scientific research in audio/music.
 	- [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
@@ -139,6 +133,7 @@
 - [PureScript](https://github.com/passy/awesome-purescript#readme)
 - [Go](https://github.com/avelino/awesome-go#readme)
 - [Scala](https://github.com/lauris/awesome-scala#readme)
+	- [Scala Native](https://github.com/tindzk/awesome-scala-native#readme) - Optimizing ahead-of-time compiler for Scala based on LLVM.
 - [Ruby](https://github.com/markets/awesome-ruby#readme)
 - [Clojure](https://github.com/razum2um/awesome-clojure#readme)
 - [ClojureScript](https://github.com/hantuzun/awesome-clojurescript#readme)
@@ -148,22 +143,22 @@
 - [Julia](https://github.com/svaksha/Julia.jl#readme)
 - [Lua](https://github.com/LewisJEllis/awesome-lua#readme)
 - [C](https://github.com/aleksandar-todorovic/awesome-c#readme)
-- [C/C++](https://github.com/fffaraz/awesome-cpp#readme)
+- [C/C++](https://github.com/fffaraz/awesome-cpp#readme) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
 - [R](https://github.com/qinwf/awesome-R#readme)
 - [D](https://github.com/zhaopuming/awesome-d#readme)
 - [Common Lisp](https://github.com/CodyReichert/awesome-cl#readme)
 - [Perl](https://github.com/hachiojipm/awesome-perl#readme)
 - [Groovy](https://github.com/kdabir/awesome-groovy#readme)
 - [Dart](https://github.com/yissachar/awesome-dart#readme)
-- [Java](https://github.com/akullpp/awesome-java#readme)
+- [Java](https://github.com/akullpp/awesome-java#readme) - Popular secure object-oriented language designed for flexibility to "write once, run anywhere".
 	- [RxJava](https://github.com/eleventigers/awesome-rxjava#readme)
 - [Kotlin](https://github.com/KotlinBy/awesome-kotlin#readme)
 - [OCaml](https://github.com/ocaml-community/awesome-ocaml#readme)
 - [ColdFusion](https://github.com/seancoyne/awesome-coldfusion#readme)
 - [Fortran](https://github.com/rabbiabram/awesome-fortran#readme)
-- [PHP](https://github.com/ziadoz/awesome-php#readme)
+- [PHP](https://github.com/ziadoz/awesome-php#readme) - Server-side scripting language.
 	- [Composer](https://github.com/jakoch/awesome-composer#readme) - Package manager.
-- [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi#readme)
+- [Pascal](https://github.com/Fr0sT-Brutal/awesome-pascal#readme)
 - [Assembler](https://github.com/jaspergould/awesome-asm#readme)
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey#readme)
 - [AutoIt](https://github.com/J2TeaM/awesome-AutoIt#readme)
@@ -182,7 +177,7 @@
 - [ES6 Tools](https://github.com/addyosmani/es6-tools#readme)
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme)
 - [Web Tools](https://github.com/lvwzhen/tools#readme)
-- [CSS](https://github.com/awesome-css-group/awesome-css#readme)
+- [CSS](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
 	- [Critical-Path Tools](https://github.com/addyosmani/critical-path-css-tools#readme)
 	- [Scalability](https://github.com/davidtheclark/scalable-css-reading-list#readme)
 	- [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css#readme)
@@ -245,6 +240,7 @@
 - [lit-html](https://github.com/web-padawan/awesome-lit-html#readme) - HTML templating library for JavaScript.
 - [JAMstack](https://github.com/automata/awesome-jamstack#readme) - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt markup.
 - [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) - Creating a great mobile web experience.
+- [Storybook](https://github.com/lauthieb/awesome-storybook#readme) - Development environment for UI components.
 
 
 ## Back-End Development
@@ -265,7 +261,7 @@
 - [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess#readme)
 - [nginx](https://github.com/fcambus/nginx-resources#readme) - Web server.
 - [Dropwizard](https://github.com/stve/awesome-dropwizard#readme)
-- [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme)
+- [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme) - Open-source platform that automates Linux container operations.
 - [Lumen](https://github.com/unicodeveloper/awesome-lumen#readme)
 - [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme)
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket#readme) - Java web app framework.
@@ -303,6 +299,7 @@
 - [Empirical Software Engineering](https://github.com/dspinellis/awesome-msr#readme) - Evidence-based research on software systems.
 - [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis#readme)
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - Learn to develop your own search engine.
+- [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) - Computing which utilizes quantum mechanics and qubits on quantum computers.
 
 
 ## Big Data
@@ -320,6 +317,7 @@
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love#readme)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks#readme)
 - [Algorithms](https://github.com/tayllan/awesome-algorithms#readme)
+	- [Education](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
 - [Algorithm Visualizations](https://github.com/enjalot/algovis#readme)
 - [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
 - [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization#readme)
@@ -363,6 +361,7 @@
 - [Construct 2](https://github.com/WebCreationClub/awesome-construct#readme) - Game engine.
 - [Gideros](https://github.com/stetso/awesome-gideros#readme) - Game engine.
 - [Minecraft](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
+- [Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
 
 
 ## Development Environment
@@ -427,6 +426,7 @@
 - [Broadcasting](https://github.com/ebu/awesome-broadcasting#readme)
 - [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art#readme) - Pixel-level digital art.
 - [FFmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
+- [Icons](https://github.com/notlmn/awesome-icons#readme) - Downloadable SVG/PNG/font icon projects.
 
 
 ## Learn
@@ -441,6 +441,7 @@
 - [Educational Games](https://github.com/yrgo/awesome-eg#readme) - Learn while playing.
 - [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning#readme)
 - [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.
+- [Product Management](https://github.com/dend/awesome-product-management#readme) - Learn how to be a better product manager.
 - [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
 
 
@@ -458,6 +459,7 @@
 - [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web apps & services.
 - [Lockpicking](https://github.com/meitar/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
 - [Cybersecurity Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
+- [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
 
 
 ## Content Management Systems
@@ -520,6 +522,7 @@
 - [JSON](https://github.com/burningtree/awesome-json#readme) - Text based data interchange format.
 	- [GeoJSON](https://github.com/tmcw/awesome-geojson#readme)
 	- [Datasets](https://github.com/jdorfman/awesome-json-datasets#readme)
+- [CSV](https://github.com/secretGeek/awesomeCSV#readme) - A text file format that stores tabular data and uses a comma to separate values.
 - [Discounts for Student Developers](https://github.com/AchoArnold/discount-for-student-dev#readme)
 - [Sysadmin](https://github.com/n1trux/awesome-sysadmin#readme)
 - [Radio](https://github.com/kyleterry/awesome-radio#readme)
@@ -628,6 +631,8 @@
 - [Product Design](https://github.com/teoga/awesome-product-design#readme) - Design a product from the initial concept to production.
 - [Prisma](https://github.com/catalinmiron/awesome-prisma#readme) - Turn your database into a GraphQL API.
 - [Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) - The discipline of designing and building software.
+- [Connectivity Data and Reports](https://github.com/stevesong/awesome-connectivity-info#readme) - Better understand who has access to telecommunication and internet infrastructure and on what terms.
+- [Stacks](https://github.com/stackshareio/awesome-stacks#readme) - Tech stacks for building different apps and features.
 
 
 ## Related
